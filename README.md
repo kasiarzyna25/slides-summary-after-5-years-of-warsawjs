@@ -4,7 +4,7 @@
 
 ## Preview
 
-<http://kasiarzyna25.github.io/slides-summary-after-5-years-of-warsawjs>
+<https://kasiarzyna25.github.io/slides-summary-after-5-years-of-warsawjs>
 
 ## License
 

@@ -13,11 +13,31 @@ class: slide-front-page
 
 ---
 
-# Ile wydarzeń zorganizowaliśmy
+### Ile wydarzeń zorganizowaliśmy <del>przez 5 lat</del>?
 
-TODO
+<!-- https://www.tablesgenerator.com/markdown_tables -->
+
+.table-striped[
+
+| **Nazwa wydarzenia** | **Liczba edycji** |
+|------------------|:-------------:|
+| Meetup           | 61            |
+| Workshop         | 35            |
+| MasterClass      | 5             |
+| Hackathon        | 1             |
+| Konferencja      | 1             |
+
+]
+
+.size50.text-center[
+
+<mark>Razem:</mark>_103_
+
+]
 
 ---
+
+class: middle, slide-background-blue
 
 # Czego się nauczyliśmy?
 
@@ -131,20 +151,86 @@ class: center
 .size45[
 
 * <mark>192</mark> osób obserwujących
-    + wzrost o <var>+XXX</var> względem zeszłego roku
+    + wzrost o <var>+64</var> względem zeszłego roku
 
 ]
 
 ---
 
-class: middle, center
+class: middle, slide-background-red
 
-# 🌟 Nowości w WarsawJS 🌟
+.size75[
+
+# Znacie wszystkie inicjatywy?
+
+]
+
+---
+
+class: middle
+
+# Blog 📝
+
+---
+
+class: middle
+
+# Slack 📲
+
+---
+
+class: middle
+
+# Warto wiedzieć ℹ️
+
+---
+
+class: middle
+
+# Newsletter 📨
+
+---
+
+class: middle
+
+# Meetup 👋
+
+.size45[
+
+* Zdobywanie wiedzy
+* Poznanie nowych osób
+* Zdobywanie pracowników
+* Poznawania nowych pracodawców
+* Spróbowania sił jako prelegent
+
+]
+
+---
+
+class: middle
+
+# Workshop 💻
+
+TODO
+
+---
+
+class: middle, center
 
 <img
     src="./images/warsawjs/logo.svg"
-    style="width: 400px;"
+    style="width: 400px; float: left"
     />
+
+# <br/>🌟 Nowości 🌟
+
+---
+
+class: middle, slide-invert-colors
+
+# MasterClass 👑
+
+TODO
 
 ---
 
@@ -163,7 +249,7 @@ class: slide-invert-colors
     style="width: 400px; float: right"
     />
 
-.size40[
+.size45[
 
 * Venue: _Teatr Polonia_
 * Termin: _7 grudnia_
@@ -179,7 +265,12 @@ class: slide-invert-colors
 
 ### ConFrontJS 2019 <mark>Sponsoring</mark>
 
-.size45[
+<img
+    src="./images/Confront_vertical_white_RGB.svg"
+    style="width: 400px; float: right"
+    />
+
+.size65[
 
 * Gold 🥇
 * Silver 🥈
@@ -199,52 +290,8 @@ TODO
 
 class: middle
 
-# Blog
+# Dziękuję ♥︎
 
-.size45[
-
-🗣 Poszukujemy blogerów! 🗣
-
-]
-
----
-
-class: middle
-
-# Newsletter
-
----
-
-# Meetup 👋
-
-.size45[
-
-* Zdobywanie wiedzy
-* Poznanie nowych osób
-* Zdobywanie pracowników
-* Poznawania nowych pracodawców
-* Spróbowania sił jako prelegent
-
-]
-
----
-
-# Workshop
-
-TODO
-
----
-
-# MasterClass
-
-TODO
-
----
-
-class: middle
-
-# Dziękuję
-
-TODO — Sto lat
+TODO — Film: Podsumowanie 5 lat, Podziękowanie, Sto lat!
 
 ## ...i zapraszam na tort! 🎂
