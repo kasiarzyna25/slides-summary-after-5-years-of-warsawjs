@@ -109,11 +109,11 @@ class: slide-grid, slide-grid-4-columns, thumbnails-grid
 
 class: center
 
-### Najpopularniejsza prezentacja <del>TODO wyświetleń<del>
+### Najpopularniejsza prezentacja <del>1 266 odsłon<del>
 
-*TODO* "TODO"
+## *Rafał Pocztarski* "From Node.js to Deno [EN]"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XXX" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aib1OZLy0_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
@@ -229,6 +229,14 @@ class: middle, center
 class: middle, slide-invert-colors
 
 # MasterClass 👑
+
+TODO
+
+---
+
+class: middle, slide-invert-colors
+
+# MasterClass <mark>Zniżka</mark>
 
 TODO
 
