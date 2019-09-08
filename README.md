@@ -1,18 +1,10 @@
 # slides-summary-after-5-years-of-warsawjs
 
-:clipboard: Slides for TODO
+:clipboard: Slides for `WarsawJS Meetup #61`
 
 ## Preview
 
-<https://piecioshka.github.io/slides-summary-after-5-years-of-warsawjs>
-
-## Organization logo
-
-TODO
-
-## Event in social media
-
-TODO
+<http://kasiarzyna25.github.io/slides-summary-after-5-years-of-warsawjs>
 
 ## License
 

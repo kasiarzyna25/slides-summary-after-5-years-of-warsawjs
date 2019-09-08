@@ -1,141 +1,175 @@
-class: middle, slide-front-page, slide-invert-colors
+class: slide-front-page
 
-# slides-summary-after-5-years-of-warsawjs
-
-## Subtitle
-
-<img src="images/my-logo/logo-piecioshka-white-text.svg" />
-
----
-
-class: middle, slide-invert-colors
-background-image: url(images/me.jpg)
-background-size: contain
-
-# O mnie
-
----
-
-class: center, middle
-
-# HEADER lvl 1 <span class="slim">slim</span>
-
-## HEADER lvl 2 <span class="slim">slim</span>
-
-### HEADER lvl 3 <span class="slim">slim</span>
-
-#### HEADER lvl 4 <span class="slim">slim</span>
-
-##### HEADER lvl 5 <span class="slim">slim</span>
-
-###### HEADER lvl 6 <span class="slim">slim</span>
-
----
-
-.size10[Text 1]
-.size20[Text 2]
-.size30[Text 3]
-.size40[Text 4]
-.size50[Text 5]
-.size60[Text 6]
-.size70[Text 7]
-.size80[Text 8]
-
-.size90[Text 9]
-.size100[Text 10]
-.size110[Text 11]
-
-.size120[Text 12]
-.size130[Text 13]
-
----
-
-### Colors
-
-* <ins>gray text</ins>
-* `gray`
-* _blue_
-* <mark>yellow</mark>
-* <del>red</del>
-* <samp>cyanosed (siny)</samp>
-* <var>green</var>
-
----
-
-class: slide-background-brown
-
-### Typography
-
-* **Bold**
-* Regular
-* <span class="slim">Slim</span>
-
----
-
-class: middle, slide-invert-colors
-
-.box.right[
-![](./images/code.png)
+.logo[
+![](./images/warsawjs/logo.svg)
+]
+.details[
+![](images/katarzyna-grabowska.jpg)
+## Katarzyna Grabowska
+## <em>"Podsumowanie 5-letniej działalności WarsawJS" [PL]</em>
+## <small>2019-09-11</small>
+## <a href="https://www.linkedin.com/in/katarzyna-grabowska-designer">linkedin.com/in/katarzyna-grabowska-designer</a>
 ]
 
-## [Ćwiczenie] pt. _NAZWA_
+---
 
-* Podpunkt 1
-* Podpunkt 2
-* Skrót <kbd>Ctrl + r</kbd>
+# Ile wydarzeń zorganizowaliśmy
+
+TODO
 
 ---
 
-class: slide-background-blue
+# Czego się nauczyliśmy?
 
-### Lists
+.size45[
 
-.left.p-5[
-
-List unordered
-
-* foo
-    - bar
-
-List ordered
-
-1. foo
-2. bar
+* ...
 
 ]
 
-.left.p-5[
+---
 
-List circled
+class: top, center
 
-.list-circled[
+.size80[
+Statystyki zeszłego roku!
+]
+.box.center[
+![](images/growth.png)
+]
 
-* foo
-* bar
+---
+
+### <del>YouTube.com</del>/WarsawJS
+
+.size45[
+
+* _139 422_ wyświetlenia
+    + wzrost o <var>+33 176</var> względem zeszłego roku
+* <mark>1 777</mark> subskrypcje
+    + wzrost o <var>+323</var> względem zeszłego roku
 
 ]
 
-List squared
+---
 
-.list-squared[
+class: slide-grid, slide-grid-4-columns, thumbnails-grid
 
-* foo
-* bar
+### Oglądaliście zaproszenia na meetupy?
+
+.grid-board[
+
+![](./images/invitation-thumbs/50.jpg)
+
+![](./images/invitation-thumbs/51.jpg)
+
+![](./images/invitation-thumbs/52.jpg)
+
+![](./images/invitation-thumbs/53.jpg)
+
+![](./images/invitation-thumbs/54.jpg)
+
+![](./images/invitation-thumbs/55.jpg)
+
+![](./images/invitation-thumbs/56.jpg)
+
+![](./images/invitation-thumbs/57.jpg)
+
+![](./images/invitation-thumbs/58.jpg)
+
+![](./images/invitation-thumbs/59.jpg)
+
+![](./images/invitation-thumbs/60.jpg)
+
+![](./images/invitation-thumbs/61.jpg)
 
 ]
 
+---
+
+class: center
+
+### Najpopularniejsza prezentacja <del>TODO wyświetleń<del>
+
+*TODO* "TODO"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XXX" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+### <del>Meetup.com</del>/WarsawJS
+
+.size45[
+
+* _5 011_ osób w organizacji
+    + wzrost o <var>+1 037</var> względem zeszłego roku
+
 ]
 
-.left.p-5[
+### <del>Twitter.com</del>/WarsawJS
 
-List unstyled
+.size45[
 
-.list-unstyled[
-
-* foo
-* bar
+* <mark>1 300</mark> osób obserwujących
+    + wzrost o <var>+651</var> względem zeszłego roku
 
 ]
+
+---
+
+### <del>Facebook.com</del>/WarsawJS
+
+.size45[
+
+* _2 682_ osób obserwujących
+    + wzrost o <var>+394</var> względem zeszłego roku
+
+]
+
+### <del>Instagram.com</del>/WarsawJS
+
+.size45[
+
+* <mark>192</mark> osób obserwujących
+    + wzrost o <var>+XXX</var> względem zeszłego roku
+
+]
+
+---
+
+class: middle, center
+
+# 🌟 Nowości w WarsawJS 🌟
+
+<img
+    src="./images/warsawjs/logo.svg"
+    style="width: 400px;"
+    />
+
+---
+
+class: middle, center, slide-invert-colors
+background-image: url(images/Facebook_1920x1080px.jpg)
+background-size: cover
+
+---
+
+class: slide-invert-colors
+
+### ConFrontJS 2019
+
+<img
+    src="./images/Confront_vertical_white_RGB.svg"
+    style="width: 400px; float: right"
+    />
+
+.size40[
+
+* Venue: _Teatr Polonia_
+* Termin: _7 grudnia_
+* Limit miejsc: _260_
+* Sprzedaż biletów: <mark>Trwa</mark>
+* Call for papers: <mark>Trwa</mark>
 
 ]
 
@@ -143,138 +177,74 @@ List unstyled
 
 class: slide-invert-colors
 
-### White on black
+### ConFrontJS 2019 <mark>Sponsoring</mark>
 
----
+.size45[
 
-### Table
-
-H1 | H2 | H3
-:--- | :---: | ---:
-1 | 2 | 3
-4 | 5 | 6
-
--
-
-.table-borderless.table-striped.table-hover.table-small[
-
-H1 | H2 | H3
-:--- | :---: | ---:
-1 | 2 | 3
-4 | 5 | 6
-7 | 8 | 9
+* Gold 🥇
+* Silver 🥈
+* Bronze 🥉
 
 ]
 
 ---
 
-class: middle, slide-fullscreen-blockquote
+class: middle, slide-invert-colors
 
-> Pierwszy krok rzadko bywa do tyłu
-> <small>Loesje</small>
+# ConFrontJS 2019 <mark>Zniżka</mark>
+
+TODO
 
 ---
 
-.tag-cloud.change-color[
+class: middle
 
-* color 1
-* color 2
-* color 3
-* color 4
-* color 5
+# Blog
 
-]
+.size45[
 
-.tag-cloud.change-color.list-inline[
-
-* color 1
-* color 2
-* color 3
-* color 4
-* color 5
-
-]
-
-.tag-cloud.change-size.list-inline[
-
-* color 1
-* color 2
-* color 3
-* color 4
-* color 5
+🗣 Poszukujemy blogerów! 🗣
 
 ]
 
 ---
 
-test (regular)
+class: middle
 
-.mirror-horizontal[
-    text (mirror horizontal)
-]
-
-.mirror-vertical[
-    text (mirror vertical)
-]
+# Newsletter
 
 ---
 
-class: slide-columns-3
+# Meetup 👋
 
-## Columns
+.size45[
 
-.size30[
-
-* item 1
-* item 2
-* item 3
-* item 4
-* item 5
-* item 6
-* item 7
-* item 8
-* item 9
-* item 10
-* item 11
-* item 12
-* item 13
-* item 14
-* item 15
-* item 16
+* Zdobywanie wiedzy
+* Poznanie nowych osób
+* Zdobywanie pracowników
+* Poznawania nowych pracodawców
+* Spróbowania sił jako prelegent
 
 ]
 
 ---
 
-class: slide-grid, slide-grid-2-columns, slide-grid-with-apla
+# Workshop
 
-### Siatka
-
-.grid-board[
-
-1) Item nr 1 — Nisi non culpa cupidatat nulla cupidatat aliquip anim.
-
-2) Item nr 2 — Irure dolore aute laborum non qui nostrud tempor officia quis commodo.
-
-3) Item nr 3 — Tempor consequat quis reprehenderit
-
-4) Item nr 4 — Est enim laborum est Lorem reprehenderit laborum voluptate do labore.
-
-]
+TODO
 
 ---
 
-class: middle, center, slide-invert-colors, no-display-my-logo
+# MasterClass
 
-# <del>Dziękuję!</del>
+TODO
 
-<img
-    src="images/my-logo/logo-piecioshka-white-text.svg"
-    alt=""
-    style="width: 500px"
-/>
+---
 
-.size30[
-Proszę o rekomendację:
-[fb.com/piecioshka.trener](https://fb.com/piecioshka.trener)
-]
+class: middle
+
+# Dziękuję
+
+TODO — Sto lat
+
+## ...i zapraszam na tort! 🎂
