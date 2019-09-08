@@ -43,7 +43,7 @@ class: middle, slide-background-blue
 
 .size45[
 
-* ...
+* TODO
 
 ]
 
@@ -171,23 +171,51 @@ class: middle
 
 # Blog 📝
 
+.size45[
+
+* [blog.warsawjs.com](https://blog.warsawjs.com)
+* TODO
+
+]
+
 ---
 
 class: middle
 
 # Slack 📲
 
+.size45[
+
+* [warsawjs.slack.com](https://warsawjs.slack.com)
+* TODO
+
+]
+
 ---
 
 class: middle
 
-# Warto wiedzieć ℹ️
+# Warto wiedzieć 🌤
+
+.size45[
+
+* [github.com/piecioshka/warto-wiedziec](https://github.com/piecioshka/warto-wiedziec/)
+* TODO
+
+]
 
 ---
 
 class: middle
 
 # Newsletter 📨
+
+.size45[
+
+* [newsletter.warsawjs.com](https://newsletter.warsawjs.com)
+* TODO
+
+]
 
 ---
 
@@ -211,7 +239,11 @@ class: middle
 
 # Workshop 💻
 
-TODO
+.size45[
+
+* TODO
+
+]
 
 ---
 
@@ -236,9 +268,9 @@ TODO
 
 class: middle, slide-invert-colors
 
-# MasterClass <mark>Zniżka</mark>
+# MasterClass <mark>Zniżka</mark> <del>10%</del>
 
-TODO
+## Kod: `djsdsj6ts3`
 
 ---
 
@@ -290,16 +322,26 @@ class: slide-invert-colors
 
 class: middle, slide-invert-colors
 
-# ConFrontJS 2019 <mark>Zniżka</mark>
+.size70[
 
-TODO
+# ConFrontJS 2019 <mark>Zniżka</mark> <del>10%</del>
+
+]
+
+## Kod: `3yx13b15hy`
 
 ---
 
 class: middle
 
-# Dziękuję ♥︎
+# Dziękujemy ❤️
 
-TODO — Film: Podsumowanie 5 lat, Podziękowanie, Sto lat!
+TODO — Film: Podsumowanie 5 lat, Podziękowanie wolontariuszom, trenerom, prelegentom, sponsorom
 
-## ...i zapraszam na tort! 🎂
+---
+
+class: middle
+
+# ...i zapraszamy na tort 🎂
+
+TODO — Film: Sto lat
