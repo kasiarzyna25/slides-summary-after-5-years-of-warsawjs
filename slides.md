@@ -43,7 +43,10 @@ class: middle, slide-background-blue
 
 .size45[
 
-* TODO
+* Współpracy
+* Systematyczności
+* Słuchania potrzeb innych
+* Zdolności do kompromisu
 
 ]
 
@@ -121,7 +124,7 @@ class: center
 
 .size45[
 
-* _5 011_ osób w organizacji
+* _5 038_ osób w społeczności
     + wzrost o <var>+1 037</var> względem zeszłego roku
 
 ]
@@ -141,7 +144,7 @@ class: center
 
 .size45[
 
-* _2 682_ osób obserwujących
+* _2 682_ osób lajkujących
     + wzrost o <var>+394</var> względem zeszłego roku
 
 ]
@@ -174,7 +177,10 @@ class: middle
 .size45[
 
 * [blog.warsawjs.com](https://blog.warsawjs.com)
-* TODO
+* Dzielenie się wiedzą
+* Budowanie wspólnej inicjatywy
+* Dotarcie do odbiorców
+* Budowanie własnej marki
 
 ]
 
@@ -187,7 +193,11 @@ class: middle
 .size45[
 
 * [warsawjs.slack.com](https://warsawjs.slack.com)
-* TODO
+* Kanał pomoc
+* Kanały tematyczne
+* Łatwy kontakt ze społecznością
+* Dzielenie się pomysłami
+* Kody rabatowe i darmowe bilety
 
 ]
 
@@ -200,7 +210,10 @@ class: middle
 .size45[
 
 * [github.com/piecioshka/warto-wiedziec](https://github.com/piecioshka/warto-wiedziec/)
-* TODO
+* Nowinki ze świata IT
+* Projekty społeczności
+* Ciekawe filmy dotyczące JS
+* Blogowe posty od społeczności
 
 ]
 
@@ -213,7 +226,10 @@ class: middle
 .size45[
 
 * [newsletter.warsawjs.com](https://newsletter.warsawjs.com)
-* TODO
+* Kalendarz najbliższych wydarzeń
+* Oferty pracy
+* Kody rabatowe i darmowe bilety
+* Nowości w społeczności WarsawJS
 
 ]
 
@@ -241,7 +257,10 @@ class: middle
 
 .size45[
 
-* TODO
+* Praca zespołowa
+* Wspólne kodowanie
+* Budowanie portfolio
+* Poznawanie nowych osób
 
 ]
 
@@ -258,11 +277,24 @@ class: middle, center
 
 ---
 
+class: middle, center, slide-invert-colors
+background-image: url(images/Baner_Temat.png)
+background-size: cover
+
+---
+
 class: middle, slide-invert-colors
 
 # MasterClass 👑
 
-TODO
+.size45[
+
+* Nauka w kameralnym gronie
+* Wydłużony czas szkolenia
+* Dokładny program
+* Nauka pod okiem doświadczonego trenera
+
+]
 
 ---
 
@@ -343,5 +375,3 @@ TODO — Film: Podsumowanie 5 lat, Podziękowanie wolontariuszom, trenerom, prel
 class: middle
 
 # ...i zapraszamy na tort 🎂
-
-TODO — Film: Sto lat
